@@ -1,0 +1,6 @@
+Capítul 1: Introducció a Git
+Capítul 2: Flux de treball bàsic
+Capítul 3: Repositoris remots
+C) Comprovar l'estat del repositori
+D) Afegeix el fitxer a la zona d' intercanvi temporal
+E) Comprovar una altre vegada l' estat del repositori
